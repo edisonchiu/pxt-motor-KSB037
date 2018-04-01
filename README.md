@@ -1,6 +1,6 @@
 # KSB037
 
-Extension for KSB037 Motor Board
+Extension for KSB037
 
 ## License
 
