@@ -1,7 +1,7 @@
 {
-    "name": "KSB037",
-    "version": "0.0.1",
-    "description": "Extension for KSB037",
+    "name": "motor-KSB037",
+    "version": "0.0.2",
+    "description": "Extension for KSB037 Motor Board",
     "license": "MIT",
     "dependencies": {
         "core": "*"
